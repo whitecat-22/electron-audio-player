@@ -8,5 +8,5 @@
 
 ◆使用技術：
 - JavaScript
-- Electron
+- [Electron](https://www.electronjs.org/)
 - Node.js
